@@ -1,0 +1,20 @@
+.conter{
+    display: flex ;
+    flex-direction: column;
+    width: 600px;
+    height: 200px;
+    justify-content: space-between;
+    background-color: black;
+}
+
+.box1{
+    height: 20px;
+    width: 600px;
+    background-color: aqua;
+}
+
+.box2{
+    height: 20px;
+    width: 600px;
+    background-color: red;
+}
